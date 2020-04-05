@@ -1,0 +1,17 @@
+D:\dotnet-workspace\PodcastAPI\PodcastAPI\bin\Release\netcoreapp2.1\win-x86\PodcastAPI.exe
+D:\dotnet-workspace\PodcastAPI\PodcastAPI\bin\Release\netcoreapp2.1\win-x86\PodcastAPI.deps.json
+D:\dotnet-workspace\PodcastAPI\PodcastAPI\bin\Release\netcoreapp2.1\win-x86\PodcastAPI.runtimeconfig.json
+D:\dotnet-workspace\PodcastAPI\PodcastAPI\bin\Release\netcoreapp2.1\win-x86\PodcastAPI.runtimeconfig.dev.json
+D:\dotnet-workspace\PodcastAPI\PodcastAPI\bin\Release\netcoreapp2.1\win-x86\PodcastAPI.dll
+D:\dotnet-workspace\PodcastAPI\PodcastAPI\bin\Release\netcoreapp2.1\win-x86\PodcastAPI.pdb
+D:\dotnet-workspace\PodcastAPI\PodcastAPI\obj\Release\netcoreapp2.1\win-x86\PodcastAPI.csprojAssemblyReference.cache
+D:\dotnet-workspace\PodcastAPI\PodcastAPI\obj\Release\netcoreapp2.1\win-x86\PodcastAPI.csproj.CoreCompileInputs.cache
+D:\dotnet-workspace\PodcastAPI\PodcastAPI\obj\Release\netcoreapp2.1\win-x86\PodcastAPI.RazorAssemblyInfo.cache
+D:\dotnet-workspace\PodcastAPI\PodcastAPI\obj\Release\netcoreapp2.1\win-x86\PodcastAPI.RazorAssemblyInfo.cs
+D:\dotnet-workspace\PodcastAPI\PodcastAPI\obj\Release\netcoreapp2.1\win-x86\PodcastAPI.AssemblyInfoInputs.cache
+D:\dotnet-workspace\PodcastAPI\PodcastAPI\obj\Release\netcoreapp2.1\win-x86\PodcastAPI.AssemblyInfo.cs
+D:\dotnet-workspace\PodcastAPI\PodcastAPI\obj\Release\netcoreapp2.1\win-x86\PodcastAPI.RazorTargetAssemblyInfo.cache
+D:\dotnet-workspace\PodcastAPI\PodcastAPI\obj\Release\netcoreapp2.1\win-x86\PodcastAPI.dll
+D:\dotnet-workspace\PodcastAPI\PodcastAPI\obj\Release\netcoreapp2.1\win-x86\PodcastAPI.pdb
+D:\dotnet-workspace\PodcastAPI\PodcastAPI\bin\Release\netcoreapp2.1\win-x86\hostpolicy.dll
+D:\dotnet-workspace\PodcastAPI\PodcastAPI\bin\Release\netcoreapp2.1\win-x86\hostfxr.dll
