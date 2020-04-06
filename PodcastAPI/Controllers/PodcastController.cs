@@ -20,11 +20,17 @@ namespace PodcastAPI.Controllers
             return PodcastContext.GetPodcasts();
         }
 
-        // GET: api/Podcast/Many/5
-        [HttpGet("Many/{count}", Name = "GetMany")]
-        public IEnumerable<Podcast> GetMany(int count)
+        // GET: api/Podcast/GetEpisodes/5
+        [HttpGet("GetEpisodes/", Name = "GetEpisodes")]
+        public IEnumerable<Episode> GetEpisodes()
         {
-            return PodcastContext.GetPodcasts(count);
+            var list = new List<Episode>();
+            var pods = PodcastContext.GetPodcasts();
+            for (int i = 0; i < 30; i++)
+            {
+                list.Add(new Episode(pods[i%5].Thumbnail) { });
+            }
+            return list;
         }
 
         // GET: api/Podcast/5

@@ -15,7 +15,7 @@ namespace PodcastAPI.Model
 
         public Episode()
         {
-            Id = new Guid();
+            Id = Guid.NewGuid();
             Name = "S01 E" +  new Random().Next(100) + 1;
             Seconds = new Random().Next(7200) + 120;
             Description = Lorem;

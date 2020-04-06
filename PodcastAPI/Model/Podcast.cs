@@ -29,8 +29,7 @@ namespace PodcastAPI.Model
             Description = description;
             Downloads = new Random().Next(10000000) + 100;
             Stars = new Random().Next(4) + 1;
-            Thumbnail = !string.IsNullOrWhiteSpace(thumb) && !thumb.StartsWith("resources")
-                ? Path.Combine("resources", thumb) : thumb;
+            Thumbnail = thumb;
         }
 
         private static List<Episode> GetEpisodes(int count)
